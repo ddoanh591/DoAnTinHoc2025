@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\doantinhoc_dulieuluongnhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|solutionrelative:doantinhoc_dulieuluongnhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\doantinhoc_dulieuluongnhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|solutionrelative:doantinhoc_dulieuluongnhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|d:\\phamdoanhdoanh\\doantinhoc_dulieuluongnhanvien\\doantinhoc_dulieuluongnhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|solutionrelative:doantinhoc_dulieuluongnhanvien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\doantinhoc_dulieuluongnhanvien\\xulycsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|solutionrelative:doantinhoc_dulieuluongnhanvien\\xulycsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\doantinhoc_dulieuluongnhanvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAF8D8C8-6960-494B-ABCF-B063BB236BF5}|DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien.csproj|solutionrelative:doantinhoc_dulieuluongnhanvien\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DoAnTinHoc_DuLieuLuongNhanVien\\NhanVien.cs",
+              "ToolTip": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\NhanVien.cs",
+              "RelativeToolTip": "DoAnTinHoc_DuLieuLuongNhanVien\\NhanVien.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:21:52.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XuLyCSV.cs",
+              "DocumentMoniker": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\XuLyCSV.cs",
+              "RelativeDocumentMoniker": "DoAnTinHoc_DuLieuLuongNhanVien\\XuLyCSV.cs",
+              "ToolTip": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\XuLyCSV.cs",
+              "RelativeToolTip": "DoAnTinHoc_DuLieuLuongNhanVien\\XuLyCSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:47:17.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "DoAnTinHoc_DuLieuLuongNhanVien\\Form1.cs",
+              "ToolTip": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\Form1.cs",
+              "RelativeToolTip": "DoAnTinHoc_DuLieuLuongNhanVien\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:09:03.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\Form1.cs",
+              "RelativeDocumentMoniker": "DoAnTinHoc_DuLieuLuongNhanVien\\Form1.cs",
+              "ToolTip": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\Form1.cs [Design]",
+              "RelativeToolTip": "DoAnTinHoc_DuLieuLuongNhanVien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T04:09:02.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnTinHoc_DuLieuLuongNhanVien\\Program.cs",
+              "ToolTip": "D:\\PhamDoanhDoanh\\DoAnTinHoc_DuLieuLuongNhanVien\\DoAnTinHoc_DuLieuLuongNhanVien\\Program.cs",
+              "RelativeToolTip": "DoAnTinHoc_DuLieuLuongNhanVien\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T05:04:59.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
